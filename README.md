@@ -26,6 +26,7 @@ Versões criadas para a marca, utilizando uma paleta em tons de **Roxo e Rosa** 
 
 ## 🚀 Próximos Passos (Roadmap de Desenvolvimento)
 
+- [ ] **Fase 0.5:** Desenvolvimento de Planilha de Precificação Inteligente (Custo de Origem + Embalagem + Simulação de Frete por Peso).
 - [ ] **Fase 1:** Estruturar banco de dados (SQLite) para produtos e preços.
 - [ ] **Fase 2:** Criar interface responsiva em HTML/CSS (Roxo/Rosa).
 - [ ] **Fase 3:** Desenvolver Back-end em **Python/Flask**.
